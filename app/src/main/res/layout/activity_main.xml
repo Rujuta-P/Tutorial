@@ -15,11 +15,11 @@
     <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Enter your Message"
+            android:hint="Nick Jonas all day every day!"
             android:ems="10"
             android:id="@+id/etUserMessage" android:layout_alignParentEnd="true" android:layout_alignParentTop="true"
             android:layout_marginEnd="5dp" android:layout_marginTop="191dp"/>
-    <Button
+    <Buttongit
             android:text="Send Data to Next Activity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" android:layout_alignParentEnd="true"
